@@ -1,7 +1,3 @@
-Claro, aqui está um README bem estruturado para o seu projeto de análise de dados.
-
------
-
 # Análise de Cancelamento de Clientes
 
 Este projeto tem como objetivo analisar a base de dados de uma empresa com mais de 800 mil clientes para identificar os principais motivos que levam ao cancelamento de serviços. A partir da análise, buscamos extrair insights que possam embasar a criação de ações estratégicas para reduzir a taxa de churn (cancelamento).
